@@ -1,0 +1,11 @@
+S -> E
+E -> PiE
+E -> EuI
+E -> I
+P -> oEc
+I -> IiN
+I -> N
+N -> nN
+N -> nL
+N -> L
+L -> t
