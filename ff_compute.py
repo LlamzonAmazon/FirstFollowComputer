@@ -1,3 +1,5 @@
+# Program to compute the FIRST and FOLLOW sets of a given grammar in a specific format
+
 import sys
 
 ###
