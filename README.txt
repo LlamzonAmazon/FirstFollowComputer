@@ -1,3 +1,5 @@
+This project is INCOMPLETE; Not correct in all possible grammars
+
 This program was made for my compiler theory and language design course. 
 
 This program computes the FIRST() and FOLLOW() sets for a given grammar. 
