@@ -1,7 +1,3 @@
-# Thomas Llamzon
-# 251316111
-# A2 Q3
-
 import sys
 
 ###
